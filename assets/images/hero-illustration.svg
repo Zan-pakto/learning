@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Elements -->
+    <circle cx="400" cy="300" r="250" fill="#f3f4f6" opacity="0.5"/>
+    <circle cx="400" cy="300" r="200" fill="#e5e7eb" opacity="0.3"/>
+    
+    <!-- People -->
+    <g transform="translate(200, 200)">
+        <!-- Person 1 -->
+        <circle cx="100" cy="100" r="40" fill="#818cf8"/>
+        <path d="M 60 100 L 140 100 M 100 60 L 100 140" stroke="white" stroke-width="8" stroke-linecap="round"/>
+        
+        <!-- Person 2 -->
+        <circle cx="300" cy="100" r="40" fill="#818cf8"/>
+        <path d="M 260 100 L 340 100 M 300 60 L 300 140" stroke="white" stroke-width="8" stroke-linecap="round"/>
+        
+        <!-- Person 3 -->
+        <circle cx="500" cy="100" r="40" fill="#818cf8"/>
+        <path d="M 460 100 L 540 100 M 500 60 L 500 140" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    
+    <!-- Connection Lines -->
+    <path d="M 300 200 L 500 200" stroke="#818cf8" stroke-width="4" stroke-dasharray="10,10"/>
+    <path d="M 100 200 L 300 200" stroke="#818cf8" stroke-width="4" stroke-dasharray="10,10"/>
+    
+    <!-- Document Icons -->
+    <g transform="translate(150, 300)">
+        <rect x="0" y="0" width="100" height="120" rx="10" fill="white" stroke="#818cf8" stroke-width="4"/>
+        <path d="M 20 40 L 80 40 M 20 60 L 80 60 M 20 80 L 80 80" stroke="#818cf8" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    
+    <g transform="translate(350, 300)">
+        <rect x="0" y="0" width="100" height="120" rx="10" fill="white" stroke="#818cf8" stroke-width="4"/>
+        <path d="M 20 40 L 80 40 M 20 60 L 80 60 M 20 80 L 80 80" stroke="#818cf8" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    
+    <g transform="translate(550, 300)">
+        <rect x="0" y="0" width="100" height="120" rx="10" fill="white" stroke="#818cf8" stroke-width="4"/>
+        <path d="M 20 40 L 80 40 M 20 60 L 80 60 M 20 80 L 80 80" stroke="#818cf8" stroke-width="4" stroke-linecap="round"/>
+    </g>
+</svg> 

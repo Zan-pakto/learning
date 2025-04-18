@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Document -->
+    <rect x="20" y="10" width="40" height="50" rx="4" fill="white" stroke="#818cf8" stroke-width="2"/>
+    
+    <!-- Lines -->
+    <line x1="30" y1="25" x2="50" y2="25" stroke="#818cf8" stroke-width="2"/>
+    <line x1="30" y1="35" x2="50" y2="35" stroke="#818cf8" stroke-width="2"/>
+    <line x1="30" y1="45" x2="50" y2="45" stroke="#818cf8" stroke-width="2"/>
+    
+    <!-- Upload Arrow -->
+    <path d="M 40 5 L 40 15 M 35 10 L 40 5 L 45 10" stroke="#818cf8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 

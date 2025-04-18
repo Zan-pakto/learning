@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <!-- Educator -->
+    <circle cx="32" cy="20" r="12" fill="#818cf8"/>
+    <path d="M 16 60 C 16 44, 48 44, 48 60" fill="#818cf8"/>
+    
+    <!-- Graduation Cap -->
+    <path d="M 20 25 L 32 15 L 44 25 L 32 35 Z" fill="white" stroke="#818cf8" stroke-width="2"/>
+    <path d="M 20 25 L 20 35 L 32 45 L 44 35 L 44 25" fill="none" stroke="#818cf8" stroke-width="2"/>
+</svg> 
